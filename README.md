@@ -1,11 +1,17 @@
+# Temanikan
 
-  # Water Temperature Monitoring (Copy)
+TemanIkan adalah platform web berbasis Machine Learning dan IoT simulasi yang menyediakan edukasi, komunitas, dan monitoring ikan hias. Fitur utamanya mencakup Fishpedia, forum diskusi, artikel panduan, e-commerce simulatif, deteksi penyakit ikan (AI), dan dashboard monitoring akuarium.
 
-  This is a code bundle for Water Temperature Monitoring (Copy). The original project is available at https://www.figma.com/design/Ma4vQqHaNzNloBO0QpC29b/Water-Temperature-Monitoring--Copy-.
+## Running the code
 
-  ## Running the code
+Run `npm i` to install the dependencies.
 
-  Run `npm i` to install the dependencies.
+Run `npm run dev` to start the development server.
 
-  Run `npm run dev` to start the development server.
-  
+=======
+
+# Temanikan
+
+TemanIkan adalah platform web berbasis Machine Learning dan IoT simulasi yang menyediakan edukasi, komunitas, dan monitoring ikan hias. Fitur utamanya mencakup Fishpedia, forum diskusi, artikel panduan, e-commerce simulatif, deteksi penyakit ikan (AI), dan dashboard monitoring akuarium.
+
+> > > > > > > origin/main
